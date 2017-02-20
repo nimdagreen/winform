@@ -1,0 +1,10 @@
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+E:\web api\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form2.resources
